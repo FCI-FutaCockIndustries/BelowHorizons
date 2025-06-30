@@ -30,3 +30,28 @@
 *.exe
 *.out
 *.app
+
+# IDE
+bin
+*.launch
+.vscode
+.settings
+.metadata
+.classpath
+.project
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# Build
+build
+.gradle
+logs
+
+# Other
+run
+
+# Files from Forge MDK
+forge*changelog.txt
