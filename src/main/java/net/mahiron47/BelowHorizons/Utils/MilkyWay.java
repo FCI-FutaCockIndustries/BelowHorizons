@@ -1,4 +1,4 @@
-package net.mahiron47.BelowHorizons.Utils;
+package net.mahiron47.belowhorizons.utils;
 
 import io.github.opencubicchunks.cubicchunks.api.util.IntRange;
 import io.github.opencubicchunks.cubicchunks.api.world.ICubicWorldType;
@@ -8,7 +8,7 @@ import net.minecraft.world.WorldServer;
 import net.minecraft.world.WorldType;
 import net.minecraft.world.biome.BiomeProvider;
 import net.minecraft.world.biome.BiomeProviderSingle;
-import net.mahiron47.BelowHorizons.Generator.MilkyWayGenerator;
+import net.mahiron47.belowhorizons.generator.MilkyWayGenerator;
 import net.minecraft.init.Biomes;
 
 public class MilkyWay extends WorldType implements ICubicWorldType {

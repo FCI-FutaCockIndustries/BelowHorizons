@@ -1,4 +1,4 @@
-package net.mahiron47.BelowHorizons.Registrator;
+package net.mahiron47.belowhorizons.registrator;
 
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;

@@ -1,4 +1,4 @@
-package net.mahiron47.BelowHorizons.Generator;
+package net.mahiron47.belowhorizons.generator;
 
 import io.github.opencubicchunks.cubicchunks.api.util.Box;
 import io.github.opencubicchunks.cubicchunks.api.world.ICube;

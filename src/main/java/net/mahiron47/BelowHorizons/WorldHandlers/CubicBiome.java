@@ -1,1 +1,1 @@
-package net.mahiron47.BelowHorizons.WorldHandlers;
+package net.mahiron47.belowhorizons.worldhandlers;
